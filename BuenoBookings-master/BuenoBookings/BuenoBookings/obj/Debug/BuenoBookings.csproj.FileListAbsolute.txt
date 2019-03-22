@@ -1,0 +1,15 @@
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\bin\Debug\BuenoBookings.exe.config
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\bin\Debug\BuenoBookings.exe
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\bin\Debug\BuenoBookings.pdb
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\bin\Debug\MdiTabControl.dll
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\obj\Debug\BuenoBookings.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\obj\Debug\BuenoBookings.Bookings.resources
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\obj\Debug\BuenoBookings.Form1.resources
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\obj\Debug\BuenoBookings.Guests.resources
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\obj\Debug\BuenoBookings.Properties.Resources.resources
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\obj\Debug\BuenoBookings.csproj.GenerateResource.cache
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\obj\Debug\BuenoBookings.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\obj\Debug\BuenoBookings.csproj.CopyComplete
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\obj\Debug\BuenoBookings.exe
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\obj\Debug\BuenoBookings.pdb
+C:\Users\Patrick\source\repos\BuenoBookings\BuenoBookings\obj\Debug\BuenoBookings.AvailableRooms.resources
